@@ -8,3 +8,5 @@ print(employees)
 
 for emp in employees:
      print(emp['ename'])
+
+fp.close()
