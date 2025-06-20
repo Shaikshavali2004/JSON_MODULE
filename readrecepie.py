@@ -1,4 +1,4 @@
-# Extracting data from a dummy API and saving it to a JSON File.
+# Extracting data from a dummy API
 import requests,json
 api_url = 'https://dummyjson.com/recipes'
 data=requests.get(api_url)
