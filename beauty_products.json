@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Essence Mascara Lash Princess",
+    "type": "beauty",
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "name": "Eyeshadow Palette with Mirror",
+    "type": "beauty",
+    "price": 19.99
+  },
+  {
+    "id": 3,
+    "name": "Powder Canister",
+    "type": "beauty",
+    "price": 14.99
+  },
+  {
+    "id": 4,
+    "name": "Red Lipstick",
+    "type": "beauty",
+    "price": 12.99
+  },
+  {
+    "id": 5,
+    "name": "Red Nail Polish",
+    "type": "beauty",
+    "price": 8.99
+  }
+]
